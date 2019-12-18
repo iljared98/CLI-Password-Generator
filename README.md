@@ -1,4 +1,4 @@
-#CLI-Password-Generator
+# CLI-Password-Generator
 ### Requires:
 - Python 3.x
 - The following modules: os, sys, random, 
